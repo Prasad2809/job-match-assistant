@@ -211,4 +211,4 @@ AI Resume Match Assistant | FastAPI · React · OpenAI GPT API · Python
 
 ## 🤝 Built by
 
-[Your Name] — fresher software developer applying to Germany 2025/2026
+[Prasad Shinde] — fresher software developer 
